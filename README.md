@@ -1,34 +1,34 @@
-# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+# AWS SERVICES IMPLEMENTATION REPORT
 
-Data: 03/10/2024.  
-Empresa: Abstergo Inc.  
-Responsável: André Victor Sores Castro  
+Date: 03/10/2024. 
+Company: Abstergo Inc.  
+Responsible: André Victor Sores Castro  
 
-## Introdução  
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Inc, realizado por André Victor Sores Castro. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+## Introduction  
+This report presents the process of implementing tools in the company Abstergo Inc., carried out by André Victor Sores Castro. The project's objective was to list 3 AWS services to achieve immediate cost reduction.
 
-## Descrição do Projeto  
-O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
+## Project Description  
+The tool implementation project was divided into 3 stages, each with its specific objectives. The following describes the stages of the project:
 
-Etapa 1:  
-- **Nome da ferramenta**: AWS S3  
-- **Foco da ferramenta**: Armazenamento de dados  
-- **Descrição de caso de uso**: Reduzir custos de armazenamento usando Standard-IA ou Intelligent-Tiering.
+Stage 1:  
+- **Tool Name**: AWS S3  
+- **Tool Focus**: Data storage  
+- **Use Case Description**: Reduce storage costs using Standard-IA or Intelligent-Tiering.
 
-Etapa 2:  
-- **Nome da ferramenta**: AWS Auto Scaling  
-- **Foco da ferramenta**: Escalabilidade de recursos  
-- **Descrição de caso de uso**: Ajustar a capacidade de servidores conforme a demanda, evitando custos excessivos.
+Stage 2:  
+- **Tool Name**: AWS Auto Scaling  
+- **Tool Focus**: Resource scalability  
+- **Use Case Description**: Adjust server capacity based on demand, avoiding excessive costs.
 
-Etapa 3:  
-- **Nome da ferramenta**: AWS Lambda  
-- **Foco da ferramenta**: Automação de processos  
-- **Descrição de caso de uso**: Executar funções sem gerenciar servidores, economizando recursos.
+Stage 3:  
+- **Tool Name**: AWS Lambda  
+- **Tool Focus**: Process automation  
+- **Use Case Description**: Execute functions without managing servers, saving resources.
 
-## Conclusão  
-A implementação das ferramentas na Abstergo Inc. visa reduzir custos, aumentar a eficiência e promover um uso sustentável da infraestrutura. Recomenda-se continuar a utilização dessas ferramentas e explorar novas tecnologias.
+## Conclusion  
+The implementation of the tools at Abstergo Inc. aims to reduce costs, increase efficiency, and promote sustainable use of the infrastructure. It is recommended to continue utilizing these tools and explore new technologies.
 
-## Anexos  
-[nenhum anexo]
+## Attachments  
+[no attachments]
 
 André Victor Sores Castro
