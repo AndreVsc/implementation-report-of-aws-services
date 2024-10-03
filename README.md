@@ -1,11 +1,11 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: [data de início do projeto]  
+Data: 03/10/2024.  
 Empresa: Abstergo Inc.  
 Responsável: André Victor Sores Castro  
 
 ## Introdução  
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Inc., realizado por André Victor Sores Castro. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Inc, realizado por André Victor Sores Castro. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto  
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
@@ -31,5 +31,4 @@ A implementação das ferramentas na Abstergo Inc. visa reduzir custos, aumentar
 ## Anexos  
 [nenhum anexo]
 
-Assinatura do Responsável pelo Projeto:  
 André Victor Sores Castro
